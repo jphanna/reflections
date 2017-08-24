@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Viewing a diff helped me see the bug by allowing me to visually compare the code that was changed in the file, instead of looking through the entire file manually.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having access to the entire history of a file would make me a more efficient programmer by allowing me to undo changes that caused problems quickly. I wouldn't have to re-write the code to the way it was when it worked previously.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros                                  Cons
+    =============================         =====================================
+    Commits will have full code.          Programmer may forget to commit.
+    Easier to read history or log.        
+    All history of commits can be
+      viewed offline.
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git allows saving multiple files in one commit because sometimes one change in a program requires changes to many files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log lets me browse through the entire commit history of the repository. git diff allows me to view the differences between two commits in that history.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Knowing that I can revert back to a state that the program worked would make me more confident to try to add features or improve code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try using git to save my changes to files so I can have a history of the changes made and, so that I can revert them later if needed.
