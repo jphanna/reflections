@@ -26,3 +26,17 @@ What is the result of merging two branches together? Why do we represent it in t
   It is shown in the diagrams in that way because it was a seperate branch, but then it is brought back into the master branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+  Automatic merging
+    Pros:
+    Easy
+
+    Cons:
+    Can not always merge when there are conflicts
+
+    Manual merging
+    Pros:
+    None
+
+    Cons:
+    Takes time to find conflicts and resolve them
