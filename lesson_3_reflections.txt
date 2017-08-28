@@ -28,12 +28,17 @@ would you use one instead of another?
 What is the benefit of having a copy of the last known state of the
 remote stored locally?
 
-    Fill in your answer here
+    Having thew state of the remote stored locally is useful because it
+    allows you to run a diff to see what changes have been made.
 
 How would you collaborate without using Git or GitHub?  What would be
 easier, and what would be harder?
 
-    Fill in your answer here
+    To collaborate without using Git or GitHub I would have to use an
+    online chat, messenger, or email to speak to my partners.
+
+    Easier to have realtime conversations.
+    Harder to show the work you have done.
 
 When would you want to make changes in a separate branch rather than
 directly in master?  What benefits does each approach have?
