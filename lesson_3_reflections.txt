@@ -43,4 +43,5 @@ easier, and what would be harder?
 When would you want to make changes in a separate branch rather than
 directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Prevents breaking production copy. Allows others to review and
+    comment on your intended changes.
